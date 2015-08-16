@@ -10,8 +10,6 @@ shaderの勉強がてら、いろいろなshaderをunity用にしたもの。
 * http://www.airtightinteractive.com/2013/02/intro-to-pixel-shaders-in-three-js/
 * http://wgld.org/d/webgl/w076.html
 * http://wgld.org/d/webgl/w077.html
-
-
 * [Unityのshaderまとめ（Shader Lab）](http://unity-game.blogspot.jp/2014/06/shader.html)
 * [Unity のシェーダの基礎を勉強してみたのでやる気出してまとめてみた](http://tips.hecomi.com/entry/2014/03/16/233943)
 * [Cg Programming/Unity](http://en.wikibooks.org/wiki/Cg_Programming/Unity)
