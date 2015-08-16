@@ -15,9 +15,8 @@ http://wgld.org/d/webgl/w077.html
 [Unity のシェーダの基礎を勉強してみたのでやる気出してまとめてみた](http://tips.hecomi.com/entry/2014/03/16/233943)  
 [セマンティクス (DirectX HLSL)](https://msdn.microsoft.com/ja-jp/library/bb509647(v=vs.85).aspx)  
 [Vertex and Fragment Shader Examples](http://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html)
-[Built-in shader include files]
+[Built-in shader include files - "UnityCG.cginc" の説明。中に含まれるヘルパー関数の説明]
 (http://docs.unity3d.com/Manual/SL-BuiltinIncludes.html)
-"UnityCG.cginc" の説明。中に含まれるヘルパー関数の説明
 
 [appdata_base, v2f_img等のビルトインの関数の説明など]
 (http://wiki.unity3d.com/index.php/Shader_Code)
@@ -30,8 +29,8 @@ http://wgld.org/d/webgl/w077.html
 [Cg Programming/Unity]
 (http://en.wikibooks.org/wiki/Cg_Programming/Unity)
 
-ファンクションリスト-----
 
+ファンクションリスト
 [OPENGL ES SHADING LANGUAGE BUILT-IN FUNCTIONS]
 (http://www.shaderific.com/glsl-functions/)
 
