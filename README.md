@@ -1,7 +1,19 @@
 # EffectShader
 Unity3d effect collection.
 
+unity3d 5.1.2f1
+
 shaderの勉強がてら、いろいろなshaderをunity用にしたもの。
+
+##参考サイト
+https://github.com/maxillacult/ofxPostGlitch  
+http://www.airtightinteractive.com/2013/02/intro-to-pixel-shaders-in-three-js/  
+http://wgld.org/d/webgl/w076.html  
+http://wgld.org/d/webgl/w077.html  
+
+[Unity のシェーダの基礎を勉強してみたのでやる気出してまとめてみた](http://tips.hecomi.com/entry/2014/03/16/233943)  
+[セマンティクス (DirectX HLSL)](https://msdn.microsoft.com/ja-jp/library/bb509647(v=vs.85).aspx)  
+
 
 ##00_original
 ![00_original.png](sample_images/00_original.png)
