@@ -6,8 +6,8 @@ unity3d 5.1.2f1
 shaderの勉強がてら、いろいろなshaderをunity用にしたもの。
 
 ##参考サイト
-* https://github.com/maxillacult/ofxPostGlitch  
-* http://www.airtightinteractive.com/2013/02/intro-to-pixel-shaders-in-three-js/  
+* https://github.com/maxillacult/ofxPostGlitch
+* http://www.airtightinteractive.com/2013/02/intro-to-pixel-shaders-in-three-js/
 * http://wgld.org/d/webgl/w076.html
 * http://wgld.org/d/webgl/w077.html
 
