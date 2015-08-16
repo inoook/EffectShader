@@ -26,6 +26,9 @@ shaderの勉強がてら、いろいろなshaderをunity用にしたもの。
 * [OPENGL ES SHADING LANGUAGE BUILT-IN FUNCTIONS](http://www.shaderific.com/glsl-functions/)
 * [NVIDIA](http://http.developer.nvidia.com/CgTutorial/cg_tutorial_appendix_e.html)
 
+下記、代表的なエフェクト。  
+これ以外も有り。複数のエフェクトを同時適用も可。  
+// TODO: もう少し詳細な説明を書く
 
 ##00_original
 ![00_original.png](sample_images/00_original.png)
