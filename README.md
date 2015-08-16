@@ -16,15 +16,15 @@ http://wgld.org/d/webgl/w077.html
 [セマンティクス (DirectX HLSL)](https://msdn.microsoft.com/ja-jp/library/bb509647(v=vs.85).aspx)  
 [Vertex and Fragment Shader Examples](http://docs.unity3d.com/Manual/SL-VertexFragmentShaderExamples.html)
 [Built-in shader include files - "UnityCG.cginc" の説明。中に含まれるヘルパー関数の説明](http://docs.unity3d.com/Manual/SL-BuiltinIncludes.html)
-[appdata_base, v2f_img等のビルトインの関数の説明など](http://wiki.unity3d.com/index.php/Shader_Code)
+[appdata_base, v2f_img等のビルトインの関数の説明など](http://wiki.unity3d.com/index.php/Shader_Code)  
 
-[ShaderLab built-in values - UNITY_MATRIX_MVP, _ModelLightColor, _ScreenParamsなど](http://docs.unity3d.com/Manual/SL-BuiltinValues.html)
-[Unity シェーダで使える定義済値](http://qiita.com/edo_m18/items/591925d7fc960d843afa)
+[ShaderLab built-in values - UNITY_MATRIX_MVP, _ModelLightColor, _ScreenParamsなど](http://docs.unity3d.com/Manual/SL-BuiltinValues.html)  
+[Unity シェーダで使える定義済値](http://qiita.com/edo_m18/items/591925d7fc960d843afa)  
 
-[Cg Programming/Unity](http://en.wikibooks.org/wiki/Cg_Programming/Unity)
+[Cg Programming/Unity](http://en.wikibooks.org/wiki/Cg_Programming/Unity)  
 
 ファンクションリスト  
-[OPENGL ES SHADING LANGUAGE BUILT-IN FUNCTIONS](http://www.shaderific.com/glsl-functions/)
+[OPENGL ES SHADING LANGUAGE BUILT-IN FUNCTIONS](http://www.shaderific.com/glsl-functions/)  
 [NVIDIA](http://http.developer.nvidia.com/CgTutorial/cg_tutorial_appendix_e.html)
 
 
